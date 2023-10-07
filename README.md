@@ -1,7 +1,4 @@
 # Tensorflow_Classification_Breast_Cancer_Wisconsin_Diagnostic_10_2023
-Certainly, here's a professionally crafted code description for your GitHub README:
-
----
 
 # Cancer Classification Model
 
